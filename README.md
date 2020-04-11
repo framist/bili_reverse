@@ -18,20 +18,28 @@ python bili_reverse.py
 
 然后程序会列出此BV号下的所有视频与其cid
 
+![ (1)](D:\code\pystudio\bili_reverse\images\ (1).png)
+
 输入你要找的弹幕所在的cid
 
 然后程序会列出此cid下的所有弹幕与其发送者用户hash
 
+![ (2)](D:\code\pystudio\bili_reverse\images\ (2).png)
+
 输入你要逆向的用户hash
+
+![ (3)](D:\code\pystudio\bili_reverse\images\ (3).png)
 
 稍等片刻就可以逆向出弹幕发送者啦
 
+![ (4)](D:\code\pystudio\bili_reverse\images\ (4).png)
 
+![ (5)](D:\code\pystudio\bili_reverse\images\ (5).png)
 
 ## 其他
 
 _先写这么点吧，太懒惹_
 
-以后会想想怎么封装它
+以后会想想封装、优化什么的
 
 \_(:з」∠)\_
