@@ -18,7 +18,7 @@ python bili_reverse.py
 
 然后程序会列出此BV号下的所有视频与其cid
 
-![image](./images/ (1).png)
+![image](https://github.com/framist/bili_reverse/blob/master/images/%20(1).png)
 
 输入你要找的弹幕所在的cid
 
