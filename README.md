@@ -18,23 +18,23 @@ python bili_reverse.py
 
 然后程序会列出此BV号下的所有视频与其cid
 
-![ (1)](./images/ (1).png)
+![image](./images/ (1).png)
 
 输入你要找的弹幕所在的cid
 
 然后程序会列出此cid下的所有弹幕与其发送者用户hash
 
-![ (2)](./images/ (2).png)
+![image](./images/ (2).png)
 
 输入你要逆向的用户hash
 
-![ (3)](./images/ (3).png)
+![image](./images/ (3).png)
 
 稍等片刻就可以逆向出弹幕发送者啦
 
-![ (4)](./images/ (4).png)
+![image](./images/ (4).png)
 
-![ (5)](./images/ (5).png)
+![image](./images/ (5).png)
 
 ## 其他
 
